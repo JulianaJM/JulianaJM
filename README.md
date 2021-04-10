@@ -1,16 +1,52 @@
-### Hi there 👋
+<div align="center" style="background-color:#ffdfe5; color:#000; padding:5px">
 
-<!--
-**JulianaJM/JulianaJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>👋🏽 Hi, i'm Juliana  <img src="./assets/funkome.gif"  alt=""  width="90"  height="90"  /> </h1>
+<br/>
+<p> I live in France, i've start has a backend java developper and since 2016, i work as a <strong>front-end</strong> developer. I like to design interfaces and see the interactions and the real time results of my developments.
+ I’m currently working on React.js, Redux. 
+</p>
+<h3><a href="https://www.linkedin.com/in/juliana-j-45500115b/">My linkedin profile</a></h3>
+</div>
 
-Here are some ideas to get you started:
+<br/>
+<br/>
+<div align="center">
+<h1>My personal projects </h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Essential oils search engine (react + elasticsearch): </h3>
+
+<div>
+<a href="https://essentialy.herokuapp.com/">
+ <img src = './assets/essentiallyDesktop.gif' alt="" width="50%" />
+ <img src = './assets/essentiallyMobile.gif' alt="" width="10%" />
+</a>
+<div>
+</div>
+
+<br/>
+<br/>
+
+<h3>Carwash static site (gatsby) </h3>
+
+<div>
+<a href="https://www.carwashautomateservice.fr/#accueil">
+ <img src = './assets/carwashDesktop.gif' alt="" width="50%" />
+ <img src = './assets/carwashMobile.gif' alt="" width="10%"/>
+</a>
+<div>
+</div>
+
+<br/>
+<br/>
+
+<h3>Back to the future Monopoly (vanilla js) </h3>
+
+<div>
+<a href="https://julianajm.github.io/back-to-the-future-monopoly/">
+ <img src = './assets/MonopolyDesktop.gif' alt="" width="50%" />
+ <img src = './assets/monopolyMobile.gif' alt="" width="10%"/>
+</a>
+<div>
+</div>
+</div>
+
