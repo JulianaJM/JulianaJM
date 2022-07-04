@@ -13,39 +13,34 @@
 <div align="center">
 <h1>My personal projects </h1>
 
-<h3>Essential oils search engine (react + elasticsearch): </h3>
+<h3><a href="https://essentialy.herokuapp.com/">Essential oils search engine (react + elasticsearch): </a></h3>
 
 <div>
-<a href="https://essentialy.herokuapp.com/">
- <img src = './assets/essentiallyDesktop.gif' alt="" width="50%" />
- <img src = './assets/essentiallyMobile.gif' alt="" width="10%" />
-</a>
+ <img src = "./assets/essentiallyDesktop.gif" alt="" width="50%" />
+ <img src = "./assets/essentiallyMobile.gif" alt="" width="10%" />
 <div>
 </div>
 
 <br/>
 <br/>
 
-<h3>Carwash static site (gatsby) </h3>
+<h3><a href="https://www.carwashautomateservice.fr/#accueil">Carwash static site (gatsby) </a></h3>
 
 <div>
-<a href="https://www.carwashautomateservice.fr/#accueil">
- <img src = './assets/carwashDesktop.gif' alt="" width="50%" />
- <img src = './assets/carwashMobile.gif' alt="" width="10%"/>
-</a>
+ <img src = "./assets/carwashDesktop.gif" alt="" width="50%" />
+ <img src = "./assets/carwashMobile.gif" alt="" width="10%"/>
+
 <div>
 </div>
 
 <br/>
 <br/>
 
-<h3>Back to the future Monopoly (vanilla js) </h3>
+<h3><a href="https://julianajm.github.io/back-to-the-future-monopoly/">Back to the future Monopoly (vanilla js)</a></h3>
 
 <div>
-<a href="https://julianajm.github.io/back-to-the-future-monopoly/">
- <img src = './assets/MonopolyDesktop.gif' alt="" width="50%" />
- <img src = './assets/monopolyMobile.gif' alt="" width="10%"/>
-</a>
+ <img src = "./assets/MonopolyDesktop.gif" alt="" width="50%" />
+ <img src = "./assets/monopolyMobile.gif" alt="" width="10%"/>
 <div>
 </div>
 </div>
