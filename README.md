@@ -13,7 +13,7 @@
 <div align="center">
 <h1>My personal projects </h1>
 
-<h3><a href="https://essentialy.herokuapp.com/">Essential oils search engine (react + elasticsearch): </a></h3>
+<h3><a href="https://essentialy.herokuapp.com/">Essential oils search engine (react + express + elasticsearch): </a></h3>
 
 <div>
  <img src = "./assets/essentiallyDesktop.gif" alt="" width="50%" />
