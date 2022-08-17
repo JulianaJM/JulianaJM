@@ -2,7 +2,7 @@
 
 <h1>👋🏽 Hi, i'm Juliana  <img src="./assets/funkome.gif"  alt=""  width="90"  height="90"  /> </h1>
 <br/>
-<p> I live in France, i've started has a backend java developper and since 2016, i work as a <strong>front-end</strong> developer. I like to design interfaces and see the interactions and the real time results of my developments.
+<p> I live in France, i've started as a backend java developper and since 2016, i'm working as a <strong>front-end</strong> developer. I like designing interfaces and see the interactions and the real time results of my developments.
  I’m currently working on React.js, Redux. 
 </p>
 <h3><a href="https://www.linkedin.com/in/juliana-j-45500115b/">My linkedin profile</a></h3>
