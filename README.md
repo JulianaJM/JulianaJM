@@ -6,6 +6,7 @@
  I’m currently working on React.js, Redux. 
 </p>
 <h3><a href="https://www.linkedin.com/in/juliana-j-45500115b/">My linkedin profile</a></h3>
+<h3> <a href="https://www.malt.fr/profile/julianajeanmarie">Let's work together</a></h3>
 </div>
 
 <br/>
