@@ -1,6 +1,7 @@
 <div align="center" style="background-color:#ffdfe5; color:#000; padding:5px">
 
-<h1>👋🏽 Hi there, I'm Juliana here is my journey  <img src="./assets/funkome.gif"  alt=""  width="90"  height="90"  /> </h1>
+<h1>👋🏽 Hi there, I'm Juliana here is my journey</h1>
+<img src="./assets/funkome.gif"  alt=""  width="90"  height="90"  />
 <br/>
 <p> Frontend development is for me a way to communicate with users. Working with designers, products and QAs is for me the best way to build the most satisfying walkthough and nice.
 I work for both start-ups and large corporations. I love designing applications that have a real impact on users' daily lives, both socially and environmentally.
@@ -22,7 +23,7 @@ I work for both start-ups and large corporations. I love designing applications 
   </ul>
 </div>
 <br/>
-<div>
+<div align="center" style="background-color:#ffdfe5; color:#000; padding:5px">
  Let's connect : 
  <p><a href="https://www.linkedin.com/in/juliana-j-45500115b/">Linkedin </a></p>
  <p><a href="https://www.malt.fr/profile/julianajeanmarie">Malt</a></p>
