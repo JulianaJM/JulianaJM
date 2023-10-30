@@ -1,12 +1,31 @@
 <div align="center" style="background-color:#ffdfe5; color:#000; padding:5px">
 
-<h1>👋🏽 Hi, i'm Juliana  <img src="./assets/funkome.gif"  alt=""  width="90"  height="90"  /> </h1>
+<h1>👋🏽 Hi there, I'm Juliana here is my journey  <img src="./assets/funkome.gif"  alt=""  width="90"  height="90"  /> </h1>
 <br/>
-<p> I live in France, i've started as a backend java developper and since 2016, i'm working as a <strong>front-end</strong> developer. I like designing interfaces and see the interactions and the real time results of my developments.
- I’m currently working on React.js, Redux. 
+<p> Frontend development is for me a way to communicate with users. Working with designers, products and QAs is for me the best way to build the most satisfying walkthough and nice.
+I work for both start-ups and large corporations. I love designing applications that have a real impact on users' daily lives, both socially and environmentally.
 </p>
-<h3><a href="https://www.linkedin.com/in/juliana-j-45500115b/">My linkedin profile</a></h3>
-<h3> <a href="https://www.malt.fr/profile/julianajeanmarie">Let's work together</a></h3>
+</div>
+<div>
+   Technos:
+  <ul>
+   <li>React.js</li>
+   <li>Redux</li>
+   <li>Javascript / Typescript</li>
+   <li>Webpack</li>
+   <li>Jest</li>
+   <li>React testing library</li>
+   <li>Cypress</li>
+   <li>Sass</li>
+   <li>Styled Components</li>
+   <li>Storybook</li>
+  </ul>
+</div>
+<br/>
+<div>
+ Let's connect : 
+ <p><a href="https://www.linkedin.com/in/juliana-j-45500115b/">Linkedin </a></p>
+ <p><a href="https://www.malt.fr/profile/julianajeanmarie">Malt</a></p>
 </div>
 
 <br/>
