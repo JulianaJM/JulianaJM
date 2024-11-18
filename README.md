@@ -3,7 +3,7 @@
 <h1>👋🏽 Hi there, I'm Juliana here is my journey</h1>
 <img src="./assets/funkome.gif"  alt=""  width="90"  height="90"  />
 <br/>
-<p> Frontend development is for me a way to communicate with users. Working with designers, products and QAs is for me the best way to build the most satisfying walkthough and nice.
+<p> Development is for me a way to communicate with users. Working with designers, products and QAs is for me the best way to build the most satisfying walkthough and nice.
 I work for both start-ups and large corporations. I love designing applications that have a real impact on users' daily lives, both socially and environmentally.
 </p>
 </div>
