@@ -3,8 +3,10 @@
    <h1>👋🏽 Hi there, I'm Juliana here is my journey</h1>
    <img src="./assets/funkome.gif"  alt=""  width="90"  height="90"  />
    <br/>
-   <p> Development is for me a way to communicate with users. Working with designers, products and QAs is for me the best way to build the most satisfying walkthough and nice.
-   I work for both start-ups and large corporations. I love designing applications that have a real impact on users' daily lives, both socially and environmentally.
+   <p> Frontend Enthusiast ❤️ | React.js, Redux, JS/TS | UI & Testing: Jest, Cypress, Sass, Styled Components</p>
+   <p>
+   I turn ideas into seamless, impactful user experiences with a focus on social and environmental value.
+   By collaborating closely with product, UX/UI, and QA teams, I craft intuitive and engaging digital experiences. I thrive in both startups and large-scale organizations, delivering modular, maintainable, and well-tested applications that truly enhance users’ daily lives.
    </p>
 
    <div>
@@ -12,21 +14,6 @@
     <p><a href="https://www.linkedin.com/in/juliana-j-45500115b/">Linkedin </a></p>
     <p><a href="https://www.malt.fr/profile/julianajeanmarie">Malt</a></p>
    </div>
-</div>
-<div>
-   Technos:
-  <ul>
-   <li>React.js</li>
-   <li>Redux</li>
-   <li>Javascript / Typescript</li>
-   <li>Webpack</li>
-   <li>Jest</li>
-   <li>React testing library</li>
-   <li>Cypress</li>
-   <li>Sass</li>
-   <li>Styled Components</li>
-   <li>Storybook</li>
-  </ul>
 </div>
 <br/>
 <br />
