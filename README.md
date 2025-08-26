@@ -8,16 +8,14 @@
    I turn ideas into seamless, impactful user experiences with a focus on social and environmental value.
    By collaborating closely with product, UX/UI, and QA teams, I craft intuitive and engaging digital experiences. I thrive in both startups and large-scale organizations, delivering modular, maintainable, and well-tested applications that truly enhance users’ daily lives.
    </p>
-
+   
    <div>
     Let's connect : 
     <p><a href="https://www.linkedin.com/in/juliana-j-45500115b/">Linkedin </a></p>
     <p><a href="https://www.malt.fr/profile/julianajeanmarie">Malt</a></p>
    </div>
 </div>
-<br/>
-<br />
-<br />
+ <br/>
 <div align="center">
    <h1>Portfolio</h1>
 
@@ -55,7 +53,6 @@
    <div>
       <img width="40%" alt="" src="https://github.com/user-attachments/assets/f28bf820-5fd1-42ef-81d4-be275604e02c" />
    </div>
-   <br/>
    <br/>
 </div>
 
